@@ -1,0 +1,26 @@
+main.o: main.c config.h /usr/include/locale.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h \
+ /usr/include/bits/locale.h /usr/include/xlocale.h
+
+config.h:
+
+/usr/include/locale.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h:
+
+/usr/include/bits/locale.h:
+
+/usr/include/xlocale.h:

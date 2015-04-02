@@ -1,0 +1,3 @@
+LOCAL_OBJECTS = \
+swakTransportModelsPluginFunction.o\
+swakIncompressibleTurbulencePluginFunction.o

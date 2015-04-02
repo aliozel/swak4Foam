@@ -1,0 +1,11 @@
+OBJECTS = \
+$(OBJECTS_DIR)/swakExpressionFunctionObject.o\
+$(OBJECTS_DIR)/dumpSwakExpressionFunctionObject.o\
+$(OBJECTS_DIR)/dumpSwakGlobalVariableFunctionObject.o\
+$(OBJECTS_DIR)/swakExpressionDistributionFunctionObject.o\
+$(OBJECTS_DIR)/swakExpressionAverageDistributionFunctionObject.o\
+$(OBJECTS_DIR)/writeAndEndSwakExpressionFunctionObject.o\
+$(OBJECTS_DIR)/writeIfSwakExpressionFunctionObject.o\
+$(OBJECTS_DIR)/patchExpressionFunctionObject.o\
+$(OBJECTS_DIR)/patchExpressionDistributionFunctionObject.o\
+$(OBJECTS_DIR)/executeIfSwakExpressionFunctionObject.o

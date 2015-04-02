@@ -1,0 +1,19 @@
+LOCAL_OBJECTS = \
+GeneralSurfacesPluginFunction.o\
+surfaceAreaPluginFunction.o\
+surfaceRelativeSurfacePluginFunction.o\
+surfaceNrOfFacesInCellPluginFunction.o\
+surfaceHasSurfacePluginFunction.o\
+surfaceDistancePluginFunction.o\
+GeneralSurfaceEvaluationPluginFunction.o\
+surfaceValueAveragePluginFunction.o\
+surfaceValueMinimumPluginFunction.o\
+surfaceValueMaximumPluginFunction.o\
+GeneralSetsPluginFunction.o\
+setHasSetPluginFunction.o\
+setNrOfPointsInCellPluginFunction.o\
+setDistancePluginFunction.o\
+GeneralSetEvaluationPluginFunction.o\
+setValueAveragePluginFunction.o\
+setValueMinimumPluginFunction.o\
+setValueMaximumPluginFunction.o

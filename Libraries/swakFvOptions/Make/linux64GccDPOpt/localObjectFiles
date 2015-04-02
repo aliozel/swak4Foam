@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+executeFunctionObjectsFvOption.o\
+reportAvailableFvOptionsFvOption.o\
+reportMatrixFvOption.o

@@ -1,0 +1,7 @@
+OBJECTS = \
+$(OBJECTS_DIR)/groovyBCCommons.o\
+$(OBJECTS_DIR)/groovyBCFvPatchFields.o\
+$(OBJECTS_DIR)/groovyBCDirectionFvPatchFields.o\
+$(OBJECTS_DIR)/groovyBCFixedValueFvPatchFields.o\
+$(OBJECTS_DIR)/groovyBCJumpFvPatchFields.o\
+$(OBJECTS_DIR)/groovyBCPointPatchFields.o

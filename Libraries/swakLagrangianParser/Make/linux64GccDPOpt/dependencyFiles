@@ -1,0 +1,11 @@
+DEPENDENCIES = \
+CloudValueExpressionParser.dep\
+CloudValueExpressionLexer.dep\
+CloudValueExpressionDriver.dep\
+CloudValuePluginFunction.dep\
+CloudProxy.dep\
+makeCloudProxys.dep\
+ReaderParticle/ReaderParticle.dep\
+ReaderParticle/ReaderParticleCloud.dep\
+ReaderParticle/CloudProxyForReaderParticle.dep\
+CloudRepository.dep

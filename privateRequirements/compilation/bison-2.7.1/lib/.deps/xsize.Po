@@ -1,0 +1,53 @@
+xsize.o: xsize.c config.h xsize.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/limits.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/syslimits.h \
+ /usr/include/limits.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/posix1_lim.h /usr/include/bits/local_lim.h \
+ /usr/include/linux/limits.h /usr/include/bits/posix2_lim.h \
+ /usr/include/bits/xopen_lim.h /usr/include/bits/stdio_lim.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdint.h \
+ /usr/include/stdint.h /usr/include/bits/wchar.h
+
+config.h:
+
+xsize.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/limits.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:

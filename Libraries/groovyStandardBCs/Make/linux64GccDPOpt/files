@@ -1,0 +1,10 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+groovyTotalPressureFvPatchScalarField.C
+groovyFlowRateInletVelocityFvPatchVectorField.C
+groovyPartialSlipFvPatchFields.C
+groovyFixedNormalSlipFvPatchFields.C
+groovyFixedNormalSlipPointPatchFields.C
+
+LIB = $(FOAM_USER_LIBBIN)/libgroovyStandardBCs

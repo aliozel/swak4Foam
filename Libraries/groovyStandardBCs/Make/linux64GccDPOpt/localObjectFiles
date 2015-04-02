@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+groovyTotalPressureFvPatchScalarField.o\
+groovyFlowRateInletVelocityFvPatchVectorField.o\
+groovyPartialSlipFvPatchFields.o\
+groovyFixedNormalSlipFvPatchFields.o\
+groovyFixedNormalSlipPointPatchFields.o

@@ -1,0 +1,8 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+expressionToCell.C
+expressionToFace.C
+expressionToPoint.C
+
+LIB = $(FOAM_USER_LIBBIN)/libswakTopoSources

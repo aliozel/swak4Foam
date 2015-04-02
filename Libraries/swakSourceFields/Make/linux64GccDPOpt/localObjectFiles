@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+expressionSource.o\
+forceEquation.o\
+swakSetValues.o\
+swakExplicitSources.o\
+swakImplicitSources.o

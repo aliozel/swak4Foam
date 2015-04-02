@@ -1,0 +1,163 @@
+10
+
+dir
+2057
+svn://svn.code.sf.net/p/openfoam-extend/svn/trunk/Breeder_2.0/libraries/swak4Foam/Examples/other/angledDuctImplicit/baselineData
+svn://svn.code.sf.net/p/openfoam-extend/svn
+
+
+
+2012-10-18T17:44:35.014376Z
+1978
+bgschaid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e4e07f05-0c2f-0410-a05a-b8ba57e0c909
+
+swakExpression_surfacePlaneReuse
+dir
+
+swakExpression_pressureFilterToOutlet
+dir
+
+swakExpression_flowBeforeZone
+dir
+
+patchExpression_pressureToVol
+dir
+
+swakExpression_surfaceU45
+dir
+
+swakExpression_surfaceIsoDist
+dir
+
+patchExpression_pressureDrop
+dir
+
+swakExpression_velocityExtreme
+dir
+
+swakExpression_phiError
+dir
+
+patchExpression_velocityFoam
+dir
+
+patchExpression_distanceToFilter
+dir
+
+swakExpression_surfaceDiffPlane
+dir
+
+swakExpression_flowInlet
+dir
+
+swakExpression_surfacePlaneMaxU
+dir
+
+swakExpression_flowOutlet
+dir
+
+patchAverage_pressureAverage
+dir
+
+swakExpression_surfaceIsoDist2
+dir
+
+swakExpression_pressureOverFilter
+dir
+
+patchExpression_pressureToFilter
+dir
+
+swakExpression_setsPressureChange
+dir
+
+swakExpression_pressureInletToFilter
+dir
+
+swakExpression_setsPressureChangeProxy
+dir
+
+swakExpression_filterMeanDiff
+dir
+
+swakExpression_setsPressureChangeProxyInter
+dir
+
+swakExpression_alternatePressureToFilter
+dir
+
+swakExpression_flowAfterZone
+dir
+
+patchExpression_yPlusWall
+dir
+
+swakExpression_surfaceIsoDistCell
+dir
+
+swakExpression_surfaceU45b
+dir
+
+swakExpression_surfaceU45c
+dir
+
+swakExpression_surfacePlane2
+dir
+
+patchExpression_pressureToFilterVolAvg
+dir
+
+swakExpression_pressureToInletHalf
+dir
+
+swakExpression_alternatePressureToFilter2
+dir
+
+swakExpression_alternatePressureToFilter3
+dir
+
+swakExpression_alternatePressureToFilter4
+dir
+
+swakExpression_flowAfterSet
+dir
+
+swakExpression_surfaceIsoInterpolateOff
+dir
+
+swakExpression_surfaceCuttingPlane
+dir
+
+swakExpression_flowBeforeSet
+dir
+
+swakExpression_pressureToInlet
+dir
+
+swakExpression_surfaceIsoInterpolateOn
+dir
+
+swakExpression_surfacePatch
+dir
+
+swakExpression_surfacePlane
+dir
+
+swakExpression_setsPressureProxy
+dir
+

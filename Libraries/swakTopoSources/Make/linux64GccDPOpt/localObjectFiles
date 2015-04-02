@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+expressionToCell.o\
+expressionToFace.o\
+expressionToPoint.o

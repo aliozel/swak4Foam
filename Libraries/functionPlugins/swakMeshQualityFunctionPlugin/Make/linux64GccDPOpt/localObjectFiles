@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+mqFaceNonOrthoPluginFunction.o\
+mqFaceSkewnessPluginFunction.o\
+mqCellAspectRatioPluginFunction.o

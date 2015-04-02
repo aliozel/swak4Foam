@@ -1,0 +1,9 @@
+OBJECTS = \
+$(OBJECTS_DIR)/fvcInterpolationFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcGradFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcSnGradFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcDivFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcConvectionDivFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcLaplacianFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcCoeffLaplacianFunctionPlugin.o\
+$(OBJECTS_DIR)/fvcSurfCoeffLaplacianFunctionPlugin.o

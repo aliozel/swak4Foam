@@ -1,0 +1,9 @@
+SOURCE = \
+fvcInterpolationFunctionPlugin.C\
+fvcGradFunctionPlugin.C\
+fvcSnGradFunctionPlugin.C\
+fvcDivFunctionPlugin.C\
+fvcConvectionDivFunctionPlugin.C\
+fvcLaplacianFunctionPlugin.C\
+fvcCoeffLaplacianFunctionPlugin.C\
+fvcSurfCoeffLaplacianFunctionPlugin.C

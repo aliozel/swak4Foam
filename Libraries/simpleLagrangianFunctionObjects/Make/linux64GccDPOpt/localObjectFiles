@@ -1,0 +1,6 @@
+LOCAL_OBJECTS = \
+EvolveSolidParticleCloudFunctionObject.o\
+EvolveKinematicCloudFunctionObject.o\
+EvolveThermoCloudFunctionObject.o\
+EvolveReactingCloudFunctionObject.o\
+EvolveReactingMultiphaseCloudFunctionObject.o

@@ -1,0 +1,10 @@
+OBJECTS = \
+$(OBJECTS_DIR)/LagrangianCloudSourcePluginFunction.o\
+$(OBJECTS_DIR)/lcsMomentumSourcePluginFunction.o\
+$(OBJECTS_DIR)/lcsMassFractionPluginFunction.o\
+$(OBJECTS_DIR)/lcsRhoEffPluginFunction.o\
+$(OBJECTS_DIR)/lcsVolumeFractionPluginFunction.o\
+$(OBJECTS_DIR)/lcsScatteringFactorPluginFunction.o\
+$(OBJECTS_DIR)/lcsEnthalpySourcePluginFunction.o\
+$(OBJECTS_DIR)/lcsMassSourcePluginFunction.o\
+$(OBJECTS_DIR)/lcsSpeciesSourcePluginFunction.o

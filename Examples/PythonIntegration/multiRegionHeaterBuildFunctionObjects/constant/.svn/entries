@@ -1,0 +1,80 @@
+10
+
+dir
+2057
+svn://svn.code.sf.net/p/openfoam-extend/svn/trunk/Breeder_2.0/libraries/swak4Foam/Examples/PythonIntegration/multiRegionHeaterBuildFunctionObjects/constant
+svn://svn.code.sf.net/p/openfoam-extend/svn
+
+
+
+2012-10-18T17:44:35.014376Z
+1978
+bgschaid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e4e07f05-0c2f-0410-a05a-b8ba57e0c909
+
+bottomAir
+dir
+
+polyMesh
+dir
+
+regionProperties
+file
+
+
+
+
+2014-11-07T21:01:56.000000Z
+9642590c0a21c21d351af65f365c2ab8
+2012-10-18T17:44:35.014376Z
+1978
+bgschaid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+959
+
+leftSolid
+dir
+
+heater
+dir
+
+rightSolid
+dir
+
+topAir
+dir
+

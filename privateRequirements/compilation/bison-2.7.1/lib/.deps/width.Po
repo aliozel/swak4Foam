@@ -1,0 +1,66 @@
+width.o: uniwidth/width.c config.h uniwidth.h unitypes.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdint.h \
+ /usr/include/stdint.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/wchar.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h \
+ localcharset.h uniwidth/cjk.h streq.h string.h /usr/include/string.h \
+ /usr/include/xlocale.h /usr/include/bits/string.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/bits/string2.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h stdlib.h \
+ /usr/include/stdlib.h
+
+config.h:
+
+uniwidth.h:
+
+unitypes.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h:
+
+localcharset.h:
+
+uniwidth/cjk.h:
+
+streq.h:
+
+string.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/string.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+stdlib.h:
+
+/usr/include/stdlib.h:

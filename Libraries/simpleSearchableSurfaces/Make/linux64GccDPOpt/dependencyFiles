@@ -1,0 +1,20 @@
+DEPENDENCIES = \
+wrapperSearchableSurface.dep\
+Objects/planeSearchableSurface.dep\
+Objects/unitCylinderSearchableSurface.dep\
+Objects/searchableCylinderWithDirections.dep\
+Objects/searchableBoxWithDirections.dep\
+Objects/searchableSphereWithFix.dep\
+Transformations/transformationSearchableSurface.dep\
+Transformations/translateSearchableSurface.dep\
+Transformations/scaleSearchableSurface.dep\
+Transformations/rotateSearchableSurface.dep\
+Operations/binaryOperationSearchableSurface.dep\
+Operations/unionSearchableSurface.dep\
+Operations/intersectSearchableSurface.dep\
+Operations/differenceSearchableSurface.dep\
+Operations/exclusiveSearchableSurface.dep\
+Operations/invertSearchableSurface.dep\
+Modificators/oneRegionSearchableSurface.dep\
+Modificators/renameRegionsSearchableSurface.dep\
+Modificators/mergeRegionsSearchableSurface.dep

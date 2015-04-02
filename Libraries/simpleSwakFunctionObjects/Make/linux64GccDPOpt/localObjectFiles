@@ -1,0 +1,11 @@
+LOCAL_OBJECTS = \
+swakExpressionFunctionObject.o\
+dumpSwakExpressionFunctionObject.o\
+dumpSwakGlobalVariableFunctionObject.o\
+swakExpressionDistributionFunctionObject.o\
+swakExpressionAverageDistributionFunctionObject.o\
+writeAndEndSwakExpressionFunctionObject.o\
+writeIfSwakExpressionFunctionObject.o\
+patchExpressionFunctionObject.o\
+patchExpressionDistributionFunctionObject.o\
+executeIfSwakExpressionFunctionObject.o

@@ -1,0 +1,9 @@
+DEPENDENCIES = \
+fvcInterpolationFunctionPlugin.dep\
+fvcGradFunctionPlugin.dep\
+fvcSnGradFunctionPlugin.dep\
+fvcDivFunctionPlugin.dep\
+fvcConvectionDivFunctionPlugin.dep\
+fvcLaplacianFunctionPlugin.dep\
+fvcCoeffLaplacianFunctionPlugin.dep\
+fvcSurfCoeffLaplacianFunctionPlugin.dep

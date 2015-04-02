@@ -1,0 +1,10 @@
+LOCAL_OBJECTS = \
+coalCloudEnthalpySourcePluginFunction.o\
+coalCloudMassFractionPluginFunction.o\
+coalCloudMassSourcePluginFunction.o\
+coalCloudMomentumSourcePluginFunction.o\
+coalCloudRhoEffPluginFunction.o\
+coalCloudScatteringFactorPluginFunction.o\
+coalCloudSpeciesSourcePluginFunction.o\
+coalCloudVolumeFractionPluginFunction.o\
+makeCoalCloudProxys.o

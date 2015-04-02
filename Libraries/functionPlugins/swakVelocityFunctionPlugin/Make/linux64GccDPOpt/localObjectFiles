@@ -1,0 +1,3 @@
+LOCAL_OBJECTS = \
+courantIncompressiblePluginFunction.o\
+courantCompressiblePluginFunction.o

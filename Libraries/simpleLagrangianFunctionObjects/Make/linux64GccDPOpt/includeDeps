@@ -1,0 +1,5 @@
+include EvolveSolidParticleCloudFunctionObject.dep
+include EvolveKinematicCloudFunctionObject.dep
+include EvolveThermoCloudFunctionObject.dep
+include EvolveReactingCloudFunctionObject.dep
+include EvolveReactingMultiphaseCloudFunctionObject.dep

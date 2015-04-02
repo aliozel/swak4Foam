@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+groovyBCCommons.dep\
+groovyBCFvPatchFields.dep\
+groovyBCDirectionFvPatchFields.dep\
+groovyBCFixedValueFvPatchFields.dep\
+groovyBCJumpFvPatchFields.dep\
+groovyBCPointPatchFields.dep

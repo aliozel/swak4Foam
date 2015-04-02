@@ -1,0 +1,11 @@
+LOCAL_OBJECTS = \
+pythonInterpreterWrapper.o\
+pythonIntegrationFunctionObject.o\
+pythonFluIntegrationFunctionObject.o\
+executeIfPythonFunctionObject.o\
+stdoutFromPythonScriptProvider.o\
+writeAndEndPythonFunctionObject.o\
+writeIfPythonFunctionObject.o\
+timeManipulationWithPythonFunctionObject.o\
+setDeltaTWithPythonFunctionObject.o\
+setEndTimeWithPythonFunctionObject.o

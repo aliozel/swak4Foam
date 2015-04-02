@@ -1,0 +1,11 @@
+LOCAL_OBJECTS = \
+CloudValueExpressionParser.o\
+CloudValueExpressionLexer.o\
+CloudValueExpressionDriver.o\
+CloudValuePluginFunction.o\
+CloudProxy.o\
+makeCloudProxys.o\
+ReaderParticle.o\
+ReaderParticleCloud.o\
+CloudProxyForReaderParticle.o\
+CloudRepository.o

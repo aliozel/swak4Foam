@@ -1,0 +1,10 @@
+OBJECTS = \
+$(OBJECTS_DIR)/coalCloudEnthalpySourcePluginFunction.o\
+$(OBJECTS_DIR)/coalCloudMassFractionPluginFunction.o\
+$(OBJECTS_DIR)/coalCloudMassSourcePluginFunction.o\
+$(OBJECTS_DIR)/coalCloudMomentumSourcePluginFunction.o\
+$(OBJECTS_DIR)/coalCloudRhoEffPluginFunction.o\
+$(OBJECTS_DIR)/coalCloudScatteringFactorPluginFunction.o\
+$(OBJECTS_DIR)/coalCloudSpeciesSourcePluginFunction.o\
+$(OBJECTS_DIR)/coalCloudVolumeFractionPluginFunction.o\
+$(OBJECTS_DIR)/makeCoalCloudProxys.o

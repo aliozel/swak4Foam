@@ -1,0 +1,135 @@
+10
+
+dir
+2057
+svn://svn.code.sf.net/p/openfoam-extend/svn/trunk/Breeder_2.0/libraries/swak4Foam/Libraries/functionPlugins
+svn://svn.code.sf.net/p/openfoam-extend/svn
+
+
+
+2014-07-11T17:02:23.994163Z
+2048
+bgschaid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e4e07f05-0c2f-0410-a05a-b8ba57e0c909
+
+swakMeshQualityFunctionPlugin
+dir
+
+lagrangianCloudAdaptors
+dir
+
+swakRandomFunctionPlugin
+dir
+
+Allwmake
+file
+
+
+
+
+2014-11-07T21:01:34.000000Z
+20308d3ccb8d7bf3b40c94a0836e7fb2
+2014-01-27T15:09:57.448337Z
+2027
+bgschaid
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+627
+
+swakFvcSchemesFunctionPlugin
+dir
+
+Allwclean
+file
+
+
+
+
+2014-11-07T21:01:34.000000Z
+7aa2603ec151690f53133ae807da1deb
+2014-01-27T15:09:57.448337Z
+2027
+bgschaid
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+529
+
+swakChemistryModelFunctionPlugin
+dir
+
+swakTransportTurbFunctionPlugin
+dir
+
+swakThermoTurbFunctionPlugin
+dir
+
+swakRadiationModelFunctionPlugin
+dir
+
+swakLocalCalculationsFunctionPlugin
+dir
+
+swakSurfacesAndSetsFunctionPlugin
+dir
+
+swakVelocityFunctionPlugin
+dir
+
+swakLagrangianCloudSourcesFunctionPlugin
+dir
+
+swakFacSchemesFunctionPlugin
+dir
+

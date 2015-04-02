@@ -1,0 +1,11 @@
+DEPENDENCIES = \
+general/swakExpressionFunctionObject.dep\
+general/dumpSwakExpressionFunctionObject.dep\
+general/dumpSwakGlobalVariableFunctionObject.dep\
+general/swakExpressionDistributionFunctionObject.dep\
+general/swakExpressionAverageDistributionFunctionObject.dep\
+general/writeAndEndSwakExpressionFunctionObject.dep\
+general/writeIfSwakExpressionFunctionObject.dep\
+patch/patchExpressionFunctionObject.dep\
+patch/patchExpressionDistributionFunctionObject.dep\
+functionObjectProxy/executeIfSwakExpression/executeIfSwakExpressionFunctionObject.dep

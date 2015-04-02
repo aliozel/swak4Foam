@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/swakTransportModelsPluginFunction.o\
+$(OBJECTS_DIR)/swakIncompressibleTurbulencePluginFunction.o

@@ -1,0 +1,4 @@
+include localCellCalculationFunction.dep
+include lcFaceMinimumPluginFunction.dep
+include lcFaceMaximumPluginFunction.dep
+include lcLocalAveragePluginFunction.dep

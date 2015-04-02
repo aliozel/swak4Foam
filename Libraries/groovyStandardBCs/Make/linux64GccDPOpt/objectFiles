@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/groovyTotalPressureFvPatchScalarField.o\
+$(OBJECTS_DIR)/groovyFlowRateInletVelocityFvPatchVectorField.o\
+$(OBJECTS_DIR)/groovyPartialSlipFvPatchFields.o\
+$(OBJECTS_DIR)/groovyFixedNormalSlipFvPatchFields.o\
+$(OBJECTS_DIR)/groovyFixedNormalSlipPointPatchFields.o

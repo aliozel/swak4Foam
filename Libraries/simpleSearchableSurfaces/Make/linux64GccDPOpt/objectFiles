@@ -1,0 +1,20 @@
+OBJECTS = \
+$(OBJECTS_DIR)/wrapperSearchableSurface.o\
+$(OBJECTS_DIR)/planeSearchableSurface.o\
+$(OBJECTS_DIR)/unitCylinderSearchableSurface.o\
+$(OBJECTS_DIR)/searchableCylinderWithDirections.o\
+$(OBJECTS_DIR)/searchableBoxWithDirections.o\
+$(OBJECTS_DIR)/searchableSphereWithFix.o\
+$(OBJECTS_DIR)/transformationSearchableSurface.o\
+$(OBJECTS_DIR)/translateSearchableSurface.o\
+$(OBJECTS_DIR)/scaleSearchableSurface.o\
+$(OBJECTS_DIR)/rotateSearchableSurface.o\
+$(OBJECTS_DIR)/binaryOperationSearchableSurface.o\
+$(OBJECTS_DIR)/unionSearchableSurface.o\
+$(OBJECTS_DIR)/intersectSearchableSurface.o\
+$(OBJECTS_DIR)/differenceSearchableSurface.o\
+$(OBJECTS_DIR)/exclusiveSearchableSurface.o\
+$(OBJECTS_DIR)/invertSearchableSurface.o\
+$(OBJECTS_DIR)/oneRegionSearchableSurface.o\
+$(OBJECTS_DIR)/renameRegionsSearchableSurface.o\
+$(OBJECTS_DIR)/mergeRegionsSearchableSurface.o

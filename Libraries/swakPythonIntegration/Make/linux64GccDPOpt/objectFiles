@@ -1,0 +1,11 @@
+OBJECTS = \
+$(OBJECTS_DIR)/pythonInterpreterWrapper.o\
+$(OBJECTS_DIR)/pythonIntegrationFunctionObject.o\
+$(OBJECTS_DIR)/pythonFluIntegrationFunctionObject.o\
+$(OBJECTS_DIR)/executeIfPythonFunctionObject.o\
+$(OBJECTS_DIR)/stdoutFromPythonScriptProvider.o\
+$(OBJECTS_DIR)/writeAndEndPythonFunctionObject.o\
+$(OBJECTS_DIR)/writeIfPythonFunctionObject.o\
+$(OBJECTS_DIR)/timeManipulationWithPythonFunctionObject.o\
+$(OBJECTS_DIR)/setDeltaTWithPythonFunctionObject.o\
+$(OBJECTS_DIR)/setEndTimeWithPythonFunctionObject.o

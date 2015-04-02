@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/EvolveSolidParticleCloudFunctionObject.o\
+$(OBJECTS_DIR)/EvolveKinematicCloudFunctionObject.o\
+$(OBJECTS_DIR)/EvolveThermoCloudFunctionObject.o\
+$(OBJECTS_DIR)/EvolveReactingCloudFunctionObject.o\
+$(OBJECTS_DIR)/EvolveReactingMultiphaseCloudFunctionObject.o

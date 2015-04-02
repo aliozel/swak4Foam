@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+mqFaceNonOrthoPluginFunction.dep\
+mqFaceSkewnessPluginFunction.dep\
+mqCellAspectRatioPluginFunction.dep

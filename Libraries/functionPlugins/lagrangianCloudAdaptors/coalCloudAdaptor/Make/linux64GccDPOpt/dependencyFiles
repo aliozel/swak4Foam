@@ -1,0 +1,10 @@
+DEPENDENCIES = \
+coalCloudEnthalpySourcePluginFunction.dep\
+coalCloudMassFractionPluginFunction.dep\
+coalCloudMassSourcePluginFunction.dep\
+coalCloudMomentumSourcePluginFunction.dep\
+coalCloudRhoEffPluginFunction.dep\
+coalCloudScatteringFactorPluginFunction.dep\
+coalCloudSpeciesSourcePluginFunction.dep\
+coalCloudVolumeFractionPluginFunction.dep\
+makeCoalCloudProxys.dep

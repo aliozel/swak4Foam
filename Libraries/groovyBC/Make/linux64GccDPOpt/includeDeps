@@ -1,0 +1,6 @@
+include groovyBCCommons.dep
+include groovyBCFvPatchFields.dep
+include groovyBCDirectionFvPatchFields.dep
+include groovyBCFixedValueFvPatchFields.dep
+include groovyBCJumpFvPatchFields.dep
+include groovyBCPointPatchFields.dep

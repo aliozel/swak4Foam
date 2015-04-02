@@ -1,0 +1,10 @@
+LOCAL_OBJECTS = \
+LagrangianCloudSourcePluginFunction.o\
+lcsMomentumSourcePluginFunction.o\
+lcsMassFractionPluginFunction.o\
+lcsRhoEffPluginFunction.o\
+lcsVolumeFractionPluginFunction.o\
+lcsScatteringFactorPluginFunction.o\
+lcsEnthalpySourcePluginFunction.o\
+lcsMassSourcePluginFunction.o\
+lcsSpeciesSourcePluginFunction.o

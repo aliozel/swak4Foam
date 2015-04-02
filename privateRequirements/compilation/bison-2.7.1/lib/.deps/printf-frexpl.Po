@@ -1,0 +1,48 @@
+printf-frexpl.o: printf-frexpl.c config.h printf-frexp.c printf-frexpl.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/float.h \
+ math.h /usr/include/math.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
+ /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
+ /usr/include/bits/nan.h /usr/include/bits/mathdef.h \
+ /usr/include/bits/mathcalls.h fpucw.h
+
+config.h:
+
+printf-frexp.c:
+
+printf-frexpl.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/float.h:
+
+math.h:
+
+/usr/include/math.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+fpucw.h:

@@ -1,0 +1,11 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+expressionSource.C
+forceEquation.C
+
+swakSetValues.C
+swakExplicitSources.C
+swakImplicitSources.C
+
+LIB = $(FOAM_USER_LIBBIN)/libswakSourceFields

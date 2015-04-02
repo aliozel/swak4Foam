@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/hema2/aozel/OpenFOAM/aozel-2.2.x/swak4Foam/privateRequirements/bin/bison' -y "$@"

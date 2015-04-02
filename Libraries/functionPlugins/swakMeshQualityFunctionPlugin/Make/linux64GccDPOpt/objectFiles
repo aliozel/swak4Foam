@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/mqFaceNonOrthoPluginFunction.o\
+$(OBJECTS_DIR)/mqFaceSkewnessPluginFunction.o\
+$(OBJECTS_DIR)/mqCellAspectRatioPluginFunction.o

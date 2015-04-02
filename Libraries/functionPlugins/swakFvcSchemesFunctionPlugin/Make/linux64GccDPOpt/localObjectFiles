@@ -1,0 +1,9 @@
+LOCAL_OBJECTS = \
+fvcInterpolationFunctionPlugin.o\
+fvcGradFunctionPlugin.o\
+fvcSnGradFunctionPlugin.o\
+fvcDivFunctionPlugin.o\
+fvcConvectionDivFunctionPlugin.o\
+fvcLaplacianFunctionPlugin.o\
+fvcCoeffLaplacianFunctionPlugin.o\
+fvcSurfCoeffLaplacianFunctionPlugin.o

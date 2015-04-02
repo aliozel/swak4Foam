@@ -1,0 +1,11 @@
+DEPENDENCIES = \
+pythonInterpreterWrapper.dep\
+pythonIntegrationFunctionObject.dep\
+pythonFluIntegrationFunctionObject.dep\
+executeIfPythonFunctionObject.dep\
+stdoutFromPythonScriptProvider.dep\
+writeAndEndPythonFunctionObject.dep\
+writeIfPythonFunctionObject.dep\
+timeManipulationWithPythonFunctionObject.dep\
+setDeltaTWithPythonFunctionObject.dep\
+setEndTimeWithPythonFunctionObject.dep

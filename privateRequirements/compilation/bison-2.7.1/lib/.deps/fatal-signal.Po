@@ -1,0 +1,118 @@
+fatal-signal.o: fatal-signal.c config.h fatal-signal.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdbool.h \
+ stdlib.h /usr/include/stdlib.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h /usr/include/xlocale.h \
+ sys/types.h /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h time.h /usr/include/time.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h alloca.h signal.h /usr/include/signal.h \
+ /usr/include/bits/signum.h /usr/include/bits/siginfo.h \
+ /usr/include/bits/sigaction.h /usr/include/bits/sigcontext.h \
+ /usr/include/bits/sigstack.h /usr/include/sys/ucontext.h \
+ /usr/include/bits/sigthread.h unistd.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h getopt.h /usr/include/getopt.h \
+ sig-handler.h xalloc.h xalloc-oversized.h
+
+config.h:
+
+fatal-signal.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stdbool.h:
+
+stdlib.h:
+
+/usr/include/stdlib.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include/stddef.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/xlocale.h:
+
+sys/types.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+time.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/opt/OpenFOAM/ThirdParty-2.2.x/platforms/linux64/gcc-4.7.2/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.7.2/include-fixed/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+alloca.h:
+
+signal.h:
+
+/usr/include/signal.h:
+
+/usr/include/bits/signum.h:
+
+/usr/include/bits/siginfo.h:
+
+/usr/include/bits/sigaction.h:
+
+/usr/include/bits/sigcontext.h:
+
+/usr/include/bits/sigstack.h:
+
+/usr/include/sys/ucontext.h:
+
+/usr/include/bits/sigthread.h:
+
+unistd.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/confname.h:
+
+getopt.h:
+
+/usr/include/getopt.h:
+
+sig-handler.h:
+
+xalloc.h:
+
+xalloc-oversized.h:

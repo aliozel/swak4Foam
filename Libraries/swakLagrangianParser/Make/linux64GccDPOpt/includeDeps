@@ -1,0 +1,10 @@
+include CloudValueExpressionParser.dep
+include CloudValueExpressionLexer.dep
+include CloudValueExpressionDriver.dep
+include CloudValuePluginFunction.dep
+include CloudProxy.dep
+include makeCloudProxys.dep
+include ReaderParticle/ReaderParticle.dep
+include ReaderParticle/ReaderParticleCloud.dep
+include ReaderParticle/CloudProxyForReaderParticle.dep
+include CloudRepository.dep

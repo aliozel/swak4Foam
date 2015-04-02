@@ -1,0 +1,8 @@
+include fvcInterpolationFunctionPlugin.dep
+include fvcGradFunctionPlugin.dep
+include fvcSnGradFunctionPlugin.dep
+include fvcDivFunctionPlugin.dep
+include fvcConvectionDivFunctionPlugin.dep
+include fvcLaplacianFunctionPlugin.dep
+include fvcCoeffLaplacianFunctionPlugin.dep
+include fvcSurfCoeffLaplacianFunctionPlugin.dep

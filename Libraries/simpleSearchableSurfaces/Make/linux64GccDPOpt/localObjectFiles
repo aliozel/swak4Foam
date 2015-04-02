@@ -1,0 +1,20 @@
+LOCAL_OBJECTS = \
+wrapperSearchableSurface.o\
+planeSearchableSurface.o\
+unitCylinderSearchableSurface.o\
+searchableCylinderWithDirections.o\
+searchableBoxWithDirections.o\
+searchableSphereWithFix.o\
+transformationSearchableSurface.o\
+translateSearchableSurface.o\
+scaleSearchableSurface.o\
+rotateSearchableSurface.o\
+binaryOperationSearchableSurface.o\
+unionSearchableSurface.o\
+intersectSearchableSurface.o\
+differenceSearchableSurface.o\
+exclusiveSearchableSurface.o\
+invertSearchableSurface.o\
+oneRegionSearchableSurface.o\
+renameRegionsSearchableSurface.o\
+mergeRegionsSearchableSurface.o

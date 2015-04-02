@@ -1,0 +1,19 @@
+DEPENDENCIES = \
+GeneralSurfacesPluginFunction.dep\
+surfaceAreaPluginFunction.dep\
+surfaceRelativeSurfacePluginFunction.dep\
+surfaceNrOfFacesInCellPluginFunction.dep\
+surfaceHasSurfacePluginFunction.dep\
+surfaceDistancePluginFunction.dep\
+GeneralSurfaceEvaluationPluginFunction.dep\
+surfaceValueAveragePluginFunction.dep\
+surfaceValueMinimumPluginFunction.dep\
+surfaceValueMaximumPluginFunction.dep\
+GeneralSetsPluginFunction.dep\
+setHasSetPluginFunction.dep\
+setNrOfPointsInCellPluginFunction.dep\
+setDistancePluginFunction.dep\
+GeneralSetEvaluationPluginFunction.dep\
+setValueAveragePluginFunction.dep\
+setValueMinimumPluginFunction.dep\
+setValueMaximumPluginFunction.dep

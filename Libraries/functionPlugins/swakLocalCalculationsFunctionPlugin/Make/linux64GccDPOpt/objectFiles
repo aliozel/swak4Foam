@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/localCellCalculationFunction.o\
+$(OBJECTS_DIR)/lcFaceMinimumPluginFunction.o\
+$(OBJECTS_DIR)/lcFaceMaximumPluginFunction.o\
+$(OBJECTS_DIR)/lcLocalAveragePluginFunction.o

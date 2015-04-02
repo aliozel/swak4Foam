@@ -1,0 +1,8 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+executeFunctionObjectsFvOption.C
+reportAvailableFvOptionsFvOption.C
+reportMatrixFvOption.C
+
+LIB = $(FOAM_USER_LIBBIN)/libswakFvOptions

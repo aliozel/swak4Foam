@@ -1,0 +1,3 @@
+LOCAL_OBJECTS = \
+swakThermophysicalPluginFunction.o\
+swakCompressibleTurbulencePluginFunction.o

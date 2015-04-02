@@ -1,0 +1,5 @@
+include expressionSource.dep
+include forceEquation.dep
+include swakSetValues.dep
+include swakExplicitSources.dep
+include swakImplicitSources.dep

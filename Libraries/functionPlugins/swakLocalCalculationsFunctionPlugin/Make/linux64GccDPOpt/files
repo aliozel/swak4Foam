@@ -1,0 +1,10 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+localCellCalculationFunction.C
+lcFaceMinimumPluginFunction.C
+lcFaceMaximumPluginFunction.C
+
+lcLocalAveragePluginFunction.C
+
+LIB = $(FOAM_USER_LIBBIN)/libswakLocalCalculationsFunctionPlugin

@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+groovyBCCommons.o\
+groovyBCFvPatchFields.o\
+groovyBCDirectionFvPatchFields.o\
+groovyBCFixedValueFvPatchFields.o\
+groovyBCJumpFvPatchFields.o\
+groovyBCPointPatchFields.o

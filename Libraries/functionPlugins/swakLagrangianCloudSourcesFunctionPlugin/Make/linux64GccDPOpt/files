@@ -1,0 +1,15 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+LagrangianCloudSourcePluginFunction.C
+
+lcsMomentumSourcePluginFunction.C
+lcsMassFractionPluginFunction.C
+lcsRhoEffPluginFunction.C
+lcsVolumeFractionPluginFunction.C
+lcsScatteringFactorPluginFunction.C
+lcsEnthalpySourcePluginFunction.C
+lcsMassSourcePluginFunction.C
+lcsSpeciesSourcePluginFunction.C
+
+LIB = $(FOAM_USER_LIBBIN)/libswakLagrangianCloudSourcesFunctionPlugin

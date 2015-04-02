@@ -1,0 +1,20 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+CloudValueExpressionParser.yy
+CloudValueExpressionLexer.ll
+CloudValueExpressionDriver.C
+
+CloudValuePluginFunction.C
+
+CloudProxy.C
+
+makeCloudProxys.C
+
+ReaderParticle/ReaderParticle.C
+ReaderParticle/ReaderParticleCloud.C
+ReaderParticle/CloudProxyForReaderParticle.C
+
+CloudRepository.H
+
+LIB = $(FOAM_USER_LIBBIN)/libswakLagrangianParser

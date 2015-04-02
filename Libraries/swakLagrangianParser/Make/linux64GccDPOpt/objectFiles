@@ -1,0 +1,11 @@
+OBJECTS = \
+$(OBJECTS_DIR)/CloudValueExpressionParser.o\
+$(OBJECTS_DIR)/CloudValueExpressionLexer.o\
+$(OBJECTS_DIR)/CloudValueExpressionDriver.o\
+$(OBJECTS_DIR)/CloudValuePluginFunction.o\
+$(OBJECTS_DIR)/CloudProxy.o\
+$(OBJECTS_DIR)/makeCloudProxys.o\
+$(OBJECTS_DIR)/ReaderParticle.o\
+$(OBJECTS_DIR)/ReaderParticleCloud.o\
+$(OBJECTS_DIR)/CloudProxyForReaderParticle.o\
+$(OBJECTS_DIR)/CloudRepository.o

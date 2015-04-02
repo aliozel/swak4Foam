@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+groovyTotalPressureFvPatchScalarField.dep\
+groovyFlowRateInletVelocityFvPatchVectorField.dep\
+groovyPartialSlipFvPatchFields.dep\
+groovyFixedNormalSlipFvPatchFields.dep\
+groovyFixedNormalSlipPointPatchFields.dep

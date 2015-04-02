@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+expressionSource.dep\
+forceEquation.dep\
+swakSetValues.dep\
+swakExplicitSources.dep\
+swakImplicitSources.dep

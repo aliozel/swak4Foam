@@ -1,0 +1,19 @@
+OBJECTS = \
+$(OBJECTS_DIR)/GeneralSurfacesPluginFunction.o\
+$(OBJECTS_DIR)/surfaceAreaPluginFunction.o\
+$(OBJECTS_DIR)/surfaceRelativeSurfacePluginFunction.o\
+$(OBJECTS_DIR)/surfaceNrOfFacesInCellPluginFunction.o\
+$(OBJECTS_DIR)/surfaceHasSurfacePluginFunction.o\
+$(OBJECTS_DIR)/surfaceDistancePluginFunction.o\
+$(OBJECTS_DIR)/GeneralSurfaceEvaluationPluginFunction.o\
+$(OBJECTS_DIR)/surfaceValueAveragePluginFunction.o\
+$(OBJECTS_DIR)/surfaceValueMinimumPluginFunction.o\
+$(OBJECTS_DIR)/surfaceValueMaximumPluginFunction.o\
+$(OBJECTS_DIR)/GeneralSetsPluginFunction.o\
+$(OBJECTS_DIR)/setHasSetPluginFunction.o\
+$(OBJECTS_DIR)/setNrOfPointsInCellPluginFunction.o\
+$(OBJECTS_DIR)/setDistancePluginFunction.o\
+$(OBJECTS_DIR)/GeneralSetEvaluationPluginFunction.o\
+$(OBJECTS_DIR)/setValueAveragePluginFunction.o\
+$(OBJECTS_DIR)/setValueMinimumPluginFunction.o\
+$(OBJECTS_DIR)/setValueMaximumPluginFunction.o

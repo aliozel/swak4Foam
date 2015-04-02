@@ -1,0 +1,13 @@
+# 1 "options"
+# 1 "<command-line>"
+# 1 "options"
+include $(OBJECTS_DIR)/../../../../rules/versionOptions
+
+ifdef FOAM_DEV
+FOAM_DEV_OPTION = -DFOAM_DEV
+endif
+
+EXE_INC = $(FOAM_DEV_OPTION) 	 -I../../swak4FoamParsers/lnInclude -I$(LIB_SRC)/finiteVolume/lnInclude -I$(LIB_SRC)/sampling/lnInclude $(FILEFORMATS_INC) -I$(LIB_SRC)/triSurface/lnInclude -I$(LIB_SRC)/lagrangian/basic/lnInclude -I$(LIB_SRC)/meshTools/lnInclude
+# 16 "options"
+
+LIB_LIBS = -L$(FOAM_USER_LIBBIN) -lswak4FoamParsers -lfiniteVolume -lsampling $(FILEFORMATS_LIB) -llagrangian -lmeshTools

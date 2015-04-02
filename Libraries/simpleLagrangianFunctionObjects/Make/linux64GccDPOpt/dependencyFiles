@@ -1,0 +1,6 @@
+DEPENDENCIES = \
+EvolveSolidParticleCloudFunctionObject.dep\
+EvolveKinematicCloudFunctionObject.dep\
+EvolveThermoCloudFunctionObject.dep\
+EvolveReactingCloudFunctionObject.dep\
+EvolveReactingMultiphaseCloudFunctionObject.dep

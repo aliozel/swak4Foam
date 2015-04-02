@@ -1,0 +1,5 @@
+include groovyTotalPressureFvPatchScalarField.dep
+include groovyFlowRateInletVelocityFvPatchVectorField.dep
+include groovyPartialSlipFvPatchFields.dep
+include groovyFixedNormalSlipFvPatchFields.dep
+include groovyFixedNormalSlipPointPatchFields.dep

@@ -1,0 +1,6 @@
+OBJECTS = \
+$(OBJECTS_DIR)/expressionSource.o\
+$(OBJECTS_DIR)/forceEquation.o\
+$(OBJECTS_DIR)/swakSetValues.o\
+$(OBJECTS_DIR)/swakExplicitSources.o\
+$(OBJECTS_DIR)/swakImplicitSources.o

@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/courantIncompressiblePluginFunction.o\
+$(OBJECTS_DIR)/courantCompressiblePluginFunction.o

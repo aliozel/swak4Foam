@@ -1,0 +1,7 @@
+SOURCE = \
+groovyBCCommons.C\
+groovyBCFvPatchFields.C\
+groovyBCDirectionFvPatchFields.C\
+groovyBCFixedValueFvPatchFields.C\
+groovyBCJumpFvPatchFields.C\
+groovyBCPointPatchFields.C

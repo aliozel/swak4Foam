@@ -1,0 +1,9 @@
+include LagrangianCloudSourcePluginFunction.dep
+include lcsMomentumSourcePluginFunction.dep
+include lcsMassFractionPluginFunction.dep
+include lcsRhoEffPluginFunction.dep
+include lcsVolumeFractionPluginFunction.dep
+include lcsScatteringFactorPluginFunction.dep
+include lcsEnthalpySourcePluginFunction.dep
+include lcsMassSourcePluginFunction.dep
+include lcsSpeciesSourcePluginFunction.dep

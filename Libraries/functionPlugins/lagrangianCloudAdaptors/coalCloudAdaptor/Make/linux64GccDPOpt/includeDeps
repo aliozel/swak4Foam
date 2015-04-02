@@ -1,0 +1,9 @@
+include coalCloudEnthalpySourcePluginFunction.dep
+include coalCloudMassFractionPluginFunction.dep
+include coalCloudMassSourcePluginFunction.dep
+include coalCloudMomentumSourcePluginFunction.dep
+include coalCloudRhoEffPluginFunction.dep
+include coalCloudScatteringFactorPluginFunction.dep
+include coalCloudSpeciesSourcePluginFunction.dep
+include coalCloudVolumeFractionPluginFunction.dep
+include makeCoalCloudProxys.dep

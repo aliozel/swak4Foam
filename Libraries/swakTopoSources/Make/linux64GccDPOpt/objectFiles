@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/expressionToCell.o\
+$(OBJECTS_DIR)/expressionToFace.o\
+$(OBJECTS_DIR)/expressionToPoint.o

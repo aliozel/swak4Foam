@@ -1,0 +1,2 @@
+include swakThermophysicalPluginFunction.dep
+include swakCompressibleTurbulencePluginFunction.dep

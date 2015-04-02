@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+localCellCalculationFunction.dep\
+lcFaceMinimumPluginFunction.dep\
+lcFaceMaximumPluginFunction.dep\
+lcLocalAveragePluginFunction.dep

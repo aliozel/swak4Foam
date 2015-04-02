@@ -1,0 +1,10 @@
+DEPENDENCIES = \
+LagrangianCloudSourcePluginFunction.dep\
+lcsMomentumSourcePluginFunction.dep\
+lcsMassFractionPluginFunction.dep\
+lcsRhoEffPluginFunction.dep\
+lcsVolumeFractionPluginFunction.dep\
+lcsScatteringFactorPluginFunction.dep\
+lcsEnthalpySourcePluginFunction.dep\
+lcsMassSourcePluginFunction.dep\
+lcsSpeciesSourcePluginFunction.dep

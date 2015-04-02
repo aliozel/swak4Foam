@@ -1,0 +1,10 @@
+SOURCE = \
+LagrangianCloudSourcePluginFunction.C\
+lcsMomentumSourcePluginFunction.C\
+lcsMassFractionPluginFunction.C\
+lcsRhoEffPluginFunction.C\
+lcsVolumeFractionPluginFunction.C\
+lcsScatteringFactorPluginFunction.C\
+lcsEnthalpySourcePluginFunction.C\
+lcsMassSourcePluginFunction.C\
+lcsSpeciesSourcePluginFunction.C
